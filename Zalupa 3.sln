@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zalupa 3", "Zalupa 3\Zalupa 3.csproj", "{11F2C5E0-1842-4020-BF46-55CC5EFAFA4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11F2C5E0-1842-4020-BF46-55CC5EFAFA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F2C5E0-1842-4020-BF46-55CC5EFAFA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F2C5E0-1842-4020-BF46-55CC5EFAFA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F2C5E0-1842-4020-BF46-55CC5EFAFA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78EEB7A3-861A-439B-98DA-39C0C47B12C8}
+	EndGlobalSection
+EndGlobal
